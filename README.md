@@ -20,8 +20,10 @@
 | Project | What it does |
 |---|---|
 | [SEM Defect Detection](https://github.com/akshay-raj-m007/) | Fourier pitch normalisation + lightweight ViT detectors; 5-fold grouped CV |
-| [Project 2](#) | One line on the problem and the result |
-| [Project 3](#) | One line on the problem and the result |
+| Medical Q&A ChatBot | A RAG-based medical assistant using LangChain, ChromaDB, and open-source LLMs for context-aware question
+answering from medical documents. |
+| Loop — AI-Assisted Waste Pickup Platform | A full-stack waste pickup application enabling households to discover collection providers, manage addresses, and
+book available slots through RESTAPIs. |
 
 ### Contributions in 3D
 <p align="center">
