@@ -23,10 +23,7 @@
 | Medical Q&A ChatBot | A RAG-based medical assistant for context-aware question answering from medical documents. |
 | Loop — AI-Assisted Waste Pickup Platform | A waste pickup application enabling households to discover collection providers and book available slots through RESTAPIs. |
 
-### Contributions in 3D
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
